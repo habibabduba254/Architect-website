@@ -59,5 +59,6 @@ text-shadow: 0.3rem .5rem rgba(0,0,0,0.4);
     text-transform: uppercase;
     color:#fff;
     text-shadow:  0 0.2rem 0.4rem rgba(0,0,0,0.2);
-    box-shadow: 0 0.3rem 0.5rem rgba(0,0,0,0.2);
+    box-shadow: 0 0.3rem 0.5rem rgba(0,0,0,0.4);
+    cursor:pointer;
 }
