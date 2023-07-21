@@ -49,3 +49,8 @@ letter-spacing: 0.1rem;
 margin-bottom: 3rem;
 text-shadow: 0.3rem .5rem rgba(0,0,0,0.4);
 }
+.banner button{
+    width:25rem;
+    height:7rem;
+    background-color: #c29525;
+}
