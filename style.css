@@ -53,4 +53,9 @@ text-shadow: 0.3rem .5rem rgba(0,0,0,0.4);
     width:25rem;
     height:7rem;
     background-color: #c29525;
+    border: none;
+    font-family: "muli",serif;
+    font-size: 2rem;
+    text-transform: uppercase;
+    color:#fff;
 }
