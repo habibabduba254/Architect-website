@@ -71,6 +71,7 @@ html{
     line-height: 9rem;
     letter-spacing: .2rem;
     text-shadow: 0.3rem .5rem rgba(0,0,0,0.4);
+    opacity:0;
 }
 .banner p{
     font-family: "josefin slab",serif;
@@ -80,6 +81,7 @@ width: 70%;
 letter-spacing: 0.1rem;
 margin-bottom: 3rem;
 text-shadow: 0.3rem .5rem rgba(0,0,0,0.4);
+opacity:0;
 }
 .banner button{
     width:25rem;
@@ -93,4 +95,6 @@ text-shadow: 0.3rem .5rem rgba(0,0,0,0.4);
     text-shadow:  0 0.2rem 0.4rem rgba(0,0,0,0.2);
     box-shadow: 0 0.3rem 0.5rem rgba(0,0,0,0.4);
     cursor:pointer;
+    opacity:0;
 }
+
