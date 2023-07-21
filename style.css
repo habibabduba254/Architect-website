@@ -112,4 +112,10 @@ animation:moveBanner 1s .7s forwards;
         opacity: 1;
     }
 }
-
+.sidebar{
+    width: 40rem;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right:0;
+}
