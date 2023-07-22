@@ -131,6 +131,9 @@ animation:moveBanner 1s .7s forwards;
     font-size: 4rem;
     color:#555;
 }
+.menu-link::before{
+    content:
+}
 .social-media{
     position: absolute;
 }
