@@ -141,3 +141,11 @@ animation:moveBanner 1s .7s forwards;
     display: flex;
     justify-content: center;
 }
+.social-media i{
+    font-size: 2.2rem;
+    margin: 3rem;
+    width: 4.5rem;
+    height: 4.5rem;
+    background-color: #777;
+    color: #fff;
+}
