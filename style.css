@@ -134,3 +134,10 @@ animation:moveBanner 1s .7s forwards;
 .social-media{
     position: absolute;
 }
+.social-media{
+    position: absolute;
+    bottom: 3rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
