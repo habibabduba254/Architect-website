@@ -135,6 +135,9 @@ animation:moveBanner 1s .7s forwards;
 .menu-link::before{
     content:attr(data-content);
     position: absolute;
+    top:0;
+    left:0;
+    color:#c29525;
 }
 .social-media{
     position: absolute;
