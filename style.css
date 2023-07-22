@@ -151,4 +151,9 @@ animation:moveBanner 1s .7s forwards;
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 50%;
+    transition: background-color .3s;
+}
+.social-media i:hover{
+    background-color: #c29525;
 }
