@@ -138,6 +138,8 @@ animation:moveBanner 1s .7s forwards;
     top:0;
     left:0;
     color:#c29525;
+    width: 0;
+    overflow: hidden;
 }
 .social-media{
     position: absolute;
