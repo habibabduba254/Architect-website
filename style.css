@@ -117,7 +117,7 @@ animation:moveBanner 1s .7s forwards;
     height: 100vh;
     position: fixed;
     top: 0;
-    right:0;
+    right:-40rem;
     background-color: #fff;
 }
 .menu{
