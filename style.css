@@ -140,6 +140,12 @@ animation:moveBanner 1s .7s forwards;
     color:#c29525;
     width: 0;
     overflow: hidden;
+    white-space: nowrap;
+    transition:width .3s ease-in-out;
+}
+.menu-link:hover::before{
+    width: 100%;
+
 }
 .social-media{
     position: absolute;
