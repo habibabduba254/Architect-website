@@ -20,6 +20,10 @@ html{
     flex-direction: column;
     justify-content: space-evenly;
     cursor: pointer;
+    transition: right 0.7s;
+}
+.change.hamburger-menu{
+    right: 33rem;
 
 }
 .line{
