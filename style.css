@@ -125,6 +125,7 @@ animation:moveBanner 1s .7s forwards;
     background-color: #fff;
     transition: right 0.5s;
 }
+
 .change.sidebar{
     right: 0;
 }
@@ -158,9 +159,7 @@ animation:moveBanner 1s .7s forwards;
     width: 100%;
 
 }
-.social-media{
-    position: absolute;
-}
+
 .social-media{
     position: absolute;
     bottom: 3rem;
