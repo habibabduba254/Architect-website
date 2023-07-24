@@ -59,6 +59,10 @@ html{
     justify-content: center;
     align-items: center;
     color: #fff;
+    font-family: 'Baloo Da 2',
+    serif;
+    font-size: 1.6rem;
+    letter-spacing: .1rem;
 }
 .header{
     width: 100%;
