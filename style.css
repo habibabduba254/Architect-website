@@ -55,6 +55,10 @@ html{
     width: 10rem;
     height: 4rem;
     background-color: #e2b646;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
 }
 .header{
     width: 100%;
