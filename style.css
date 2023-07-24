@@ -34,18 +34,18 @@ html{
 
 
 }
-.line{
+.change .line{
     background-color: rgba(0,0,0,0.8);
 }
-.line-1{
+.change .line-1{
     transform: rotate(45deg);
-    translate: (.3rem,0.8rem);
+    translate: (0.3rem,0.8rem);
 }
-.line-2{
+.change .line-2{
     opacity: 0;
     visibility: hidden;
 }
-.line-3{
+.change .line-3{
     transform: rotate(-45deg);
     translate: (.3rem,-0.8rem);
 }
