@@ -563,4 +563,17 @@
     pointer-events: none;
     transition: all 0.3s;
   }
+  .input-label {
+    bottom: 3rem;
+  }
+  
+  .message {
+    bottom: 6rem;
+  }
+  
+  .field:focus ~ label {
+    transform: translateY(-3rem);
+    font-size: 1.2rem;
+  }
+  
   
