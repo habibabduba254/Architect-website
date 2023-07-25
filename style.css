@@ -541,4 +541,16 @@
     font-size: 1.6rem;
     color: #4b4b4b;
   }
+  .input-group input {
+    height: 4rem;
+  }
+  
+  .input-group textarea {
+    max-height: 7rem;
+    max-width: 45rem;
+  }
+  
+  .field:focus {
+    border-bottom-style: solid;
+  }
   
