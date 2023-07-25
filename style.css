@@ -817,4 +817,16 @@
         width: 100%;
         right: -100%;
       }
+      .change .hamburger-menu {
+        right: 38rem;
+      }
+    
+      .service {
+        width: 30rem;
+      }
+    
+      .footer {
+        height: 18rem;
+      }
+    }
   
