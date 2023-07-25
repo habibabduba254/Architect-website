@@ -553,4 +553,14 @@
   .field:focus {
     border-bottom-style: solid;
   }
+  .input-group label {
+    position: absolute;
+    left: 0;
+    font-family: "Baloo Da 2", serif;
+    font-size: 1.8rem;
+    color: #4b4b4b;
+    text-transform: uppercase;
+    pointer-events: none;
+    transition: all 0.3s;
+  }
   
