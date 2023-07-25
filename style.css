@@ -713,4 +713,18 @@
         width: 90%;
         height: 55rem;
       }
+      .contact-heading {
+        margin-bottom: 2rem;
+      }
+    
+      .field {
+        margin: 2rem 0;
+      }
+    }
+    
+    @media (max-width: 1000px) {
+      .banner h1 {
+        font-size: 5rem;
+        line-height: 6rem;
+      }
   
