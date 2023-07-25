@@ -742,4 +742,20 @@
         flex-direction: column;
         align-items: center;
       }
+      .service {
+        width: 40rem;
+        margin-bottom: 6rem;
+      }
+    
+      .about-us-img-wrapper {
+        width: 40rem;
+      }
+    
+      .about-us-img-wrapper img {
+        width: 100%;
+      }
+    
+      .contact-left {
+        width: 0;
+      }
   
