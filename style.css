@@ -526,4 +526,19 @@
     flex-direction: column;
     align-items: center;
   }
+  .input-group {
+    position: relative;
+  }
+  
+  .field {
+    width: 45rem;
+    background-color: transparent;
+    border: none;
+    border-bottom: 0.2rem dashed #636363;
+    margin: 3rem 0;
+    padding: 1rem 1rem 1rem 0;
+    font-family: "Mulish", serif;
+    font-size: 1.6rem;
+    color: #4b4b4b;
+  }
   
