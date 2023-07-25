@@ -651,4 +651,19 @@
     .footer-content {
       width: 80%;
     }
+    @media (max-width: 1400px) {
+      .banner h1 {
+        font-size: 6rem;
+        line-height: 7rem;
+      }
+    
+      .banner p {
+        font-size: 3rem;
+      }
+    
+      .banner button {
+        width: 20rem;
+        height: 5rem;
+        font-size: 1.6rem;
+      }
   
