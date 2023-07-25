@@ -806,4 +806,15 @@
       .submit-btn {
         width: 35rem;
       }
+    }
+
+    @media (max-width: 500px) {
+      html {
+        font-size: 45%;
+      }
+    
+      .sidebar {
+        width: 100%;
+        right: -100%;
+      }
   
